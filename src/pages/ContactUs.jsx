@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import { useState } from "react";
 import { CallFillIcon } from "../assets/svg-icons/CallFillIcon";
-import { EmailIcon } from "../assets/svg-icons/emailIcon";
+import { EmailIcon } from "../assets/svg-icons/EmailIcon";
 import { FaceBookIcon } from "../assets/svg-icons/FacebookIcon";
 import { InstagramIcon } from "../assets/svg-icons/InstagramIcon";
 import { LinkedinIcon } from "../assets/svg-icons/LinkedinIcon";
